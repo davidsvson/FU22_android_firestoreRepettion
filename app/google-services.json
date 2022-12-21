@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350417822467",
+    "project_id": "firestorerepetion",
+    "storage_bucket": "firestorerepetion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350417822467:android:0a771f48ef9f9f5ddc7f36",
+        "android_client_info": {
+          "package_name": "com.example.firestorerepetion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350417822467-da9rtljcf4ftvb8krc1v12jplk2j82el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWo-Gybkw27cJZzCHAAXU3Gp8qAXkV_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350417822467-da9rtljcf4ftvb8krc1v12jplk2j82el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
